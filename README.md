@@ -43,7 +43,7 @@ O script procura os arquivos por padrões de nome (`*Base_Operacional*.csv` e `*
 5. Execute o script:
 
    ```bash
-   python analise_operacional.py
+   analise_corredor_norte.py
    ```
 
 O script usa uma semente aleatória fixa (`42`) para favorecer a reprodutibilidade.
