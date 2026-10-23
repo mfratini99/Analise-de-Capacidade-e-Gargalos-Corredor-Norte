@@ -1,0 +1,29 @@
+LOG DE OCORRÊNCIAS - CORREDOR NORTE - REF. JUN/JUL
+--------------------------------------------------
+
+[02/06/2024] - Turno A (Operador: Jorge)
+Início de turno com pátio cheio. Tivemos uma interrupção na moega 01 das 14:20 até as 17:45 devido a falha elétrica no motor principal. Isso gerou fila de 4 trens na entrada. Choveu forte no final da tarde, mas não paramos a operação de descarga, apenas reduzimos a velocidade da correia.
+
+[05-06-2024] - Turno C (Operador: Silva)
+Relato de fadiga no trilho no KM 422. Equipe de via permanente solicitou interdição total da malha das 10h às 13h. Três trens ficaram retidos no pátio de cruzamento anterior. Programação original de 12 trens/dia comprometida.
+
+[12 de Junho de 2024]
+Situação crítica no Porto. Navio 'Ceres' atrasou a atracação por conta de ventos fortes. Armazém 3 está no limite da capacidade (98%). Solicitamos à Operação que segure os trens carregados no pátio interno por pelo menos 6 horas até liberar espaço no silo. 
+
+[15/06/24] - (Sem identificação)
+Manutenção preventiva cancelada na locomotiva 9022. Segue viagem. Nota: O sensor de tração está oscilando, mas dá pra seguir. Impacto previsto: redução de 10km/h na subida da serra.
+
+[20/06/2024] - Urgente
+Chuva torrencial na Serra. Operação suspensa por segurança das 22h às 04h (21/06). Risco de deslizamento no KM 12. Volume previsto para o dia não será atingido. 
+
+[02-07-24] - Turno B
+Ocorrência com a grade de descarga. Objeto metálico travou o fluxo. Parada de 45 minutos. Aproveitamos para lubrificar os roletes.
+
+[10/07/2024] - Report Diretoria
+Tivemos um desempenho recorde no turno da manhã, média de 450t/h na moega 2. Porém, o Porto informou que a balança rodoviária quebrou e estão desviando fluxo para a nossa moega ferroviária para não perder o embarque do navio. Vai dar conflito com a chegada do trem 304.
+
+[15/07/2024]
+Relatório Semanal: As médias de tempo de ciclo estão subindo. A equipe acha que é o tempo de manobra no pátio que está demorando por causa da sinalização nova. Operadores reclamando que o software de controle está lento.
+
+[22/07/24] - Clima
+Tempo seco. Operação normal. Sem intercorrências de via.
